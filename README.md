@@ -1,6 +1,6 @@
 # Blobly
 
-![Não foi possivel carregar ](URL_da_Imagem)
+![Não foi possivel carregar ](blob.png)
 
 ## Sobre o Blobly
 o site consiste em um blog, onde os usuários podem fazer suas postagem, deletar, e atualizar, como também ter foto de perfil
